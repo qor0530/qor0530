@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 뭘 해야할지 모르겠어서 걍 PS합니다
+
 <!--
 **qor0530/qor0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
